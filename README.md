@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Finalproject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # portfolioproject
 >>>>>>> origin/main
+=======
+# portfolioprjct
+>>>>>>> c63a583635c757493aea60f93b82dedcc926b183
